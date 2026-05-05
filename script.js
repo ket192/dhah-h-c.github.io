@@ -228,7 +228,7 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
         // -------------------- Inserting Book Table Data --------------------
-        const jsonFilePath = 'https://dhah-h-c.github.io/my-json-host/book_list.json';
+        const jsonFilePath = 'https://ket192.github.io/my-json-host/book_list.json';
 
         // Fetch the JSON data
         fetch(jsonFilePath)
